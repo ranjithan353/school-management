@@ -6,4 +6,4 @@ namespace SchoolAttendanceManagementSystem
     {
         public DatabaseConnectionException(string message) : base(message) { }
     }
-}
+}hello 
