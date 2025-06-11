@@ -1,0 +1,4 @@
+C:\Users\Ranjitha Gowda\RiderProjects\SchoolAttandaceManagementSystem\SchoolAttendaceManagementSystem\obj\Debug\net9.0\SchoolAttendaceManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ranjitha Gowda\RiderProjects\SchoolAttandaceManagementSystem\SchoolAttendaceManagementSystem\obj\Debug\net9.0\SchoolAttendaceManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Ranjitha Gowda\RiderProjects\SchoolAttandaceManagementSystem\SchoolAttendaceManagementSystem\obj\Debug\net9.0\SchoolAttendaceManagementSystem.AssemblyInfo.cs
+C:\Users\Ranjitha Gowda\RiderProjects\SchoolAttandaceManagementSystem\SchoolAttendaceManagementSystem\obj\Debug\net9.0\SchoolAttendaceManagementSystem.csproj.CoreCompileInputs.cache
